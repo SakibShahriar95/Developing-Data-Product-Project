@@ -3,8 +3,8 @@
 
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
-##Presentation Link: http://rpubs.com/Sakib678/476466
-##Shiny App: https://sakibshahriar95.shinyapps.io/Developing_Data_Final_Assignment/
+Presentation Link: http://rpubs.com/Sakib678/476466
+Shiny App: https://sakibshahriar95.shinyapps.io/Developing_Data_Final_Assignment/
 
 # App Description
 The application predicts a child height using the data from Galton dataset.
